@@ -21,6 +21,7 @@ IntelMQ's design was influenced by
 `AbuseHelper <https://github.com/abusesa/abusehelper>`__,
 however it was re-written from scratch and aims at:
 
+
 -  Reduce the complexity of system administration
 -  Reduce the complexity of writing new bots for new data feeds
 -  Reduce the probability of events lost in all process with persistence
